@@ -28,6 +28,3 @@ Python
 VSCode
 GitHub
 Streamlit
-## 🔗 Links
-  * [GitHub](https://github.com/)
-  * [Documentation](https://example.com/docs)
